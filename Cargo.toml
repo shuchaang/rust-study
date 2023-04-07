@@ -12,3 +12,4 @@ colored = "2" # 命令终端多彩显示jsonxf = "1.1" # JSON pretty print 格�
 mime = "0.3" # 处理 mime 类型
 reqwest = { version = "0.11", features = ["json"] } # HTTP 客户端
 tokio = { version = "1", features = ["full"] } # 异步处理库
+syntect = "4"
